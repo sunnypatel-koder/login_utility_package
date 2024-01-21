@@ -16,8 +16,8 @@ In your React application, import the LoginTemplate component and integrate it i
 
 # Props
 
-username: String - The current value of the username input.
-password: String - The current value of the password input.
-setUsername: Function - A function to update the username state.
-setPassword: Function - A function to update the password state.
-onLoginSubmit: Function - A function to handle the form submission.
+- **`username`**: `String` - The current value of the username input.
+- **`password`**: `String` - The current value of the password input.
+- **`setUsername`**: `Function` - A function to update the username state.
+- **`setPassword`**: `Function` - A function to update the password state.
+- **`onLoginSubmit`**: `Function` - A function to handle the form submission.
