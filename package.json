@@ -1,0 +1,11 @@
+{
+  "name": "npm_publish",
+  "version": "1.0.0",
+  "description": "This is gonna be awesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sunny",
+  "license": "ISC"
+}
