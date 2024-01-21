@@ -1,0 +1,14 @@
+{
+  "name": "is-ram",
+  "version": "1.0.0",
+  "description": "Is the Sting Ram?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ram"
+  ],
+  "author": "sunny",
+  "license": "ISC"
+}
