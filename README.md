@@ -1,18 +1,18 @@
-# React Login Template Component
+# React Login Utility Component
 
-Reusable React login template component.
+Reusable React login utility component.
 
 ## Installation
 
-To install the `login-template` React component, use npm:
+To install the `login-utility` React component, use npm:
 
 ```bash
-npm install login-template
+npm install login-util
 ```
 
 # Usage
 
-In your React application, import the LoginTemplate component and integrate it into your UI. Pass necessary state variables and event handlers to manage the form data.
+In your React application, import the LoginUtility component and integrate it into your UI. Pass necessary state variables and event handlers to manage the form data.
 
 # Props
 
